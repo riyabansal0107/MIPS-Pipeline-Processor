@@ -4,16 +4,16 @@ In this assignment, a pipelined processor that follows MIPS ISA is designed usin
 
 1. ALU.
 2. ALU Control Unit.
-Control Unit.
-Program Counter.
-Instruction Fetch Unit.
-Instruction Memory Unit.
-Register File.
-Data Memory Unit.
-Pipeline registers - IF/ID, ID/EX, EX/MEM, MEM/WB.
-Stalling Unit.
-Forwarding Unit.
-Adders, Shifters, Multiplexers, Sign Extender.
+3 Control Unit.
+4. Program Counter.
+5. Instruction Fetch Unit.
+6. Instruction Memory Unit.
+7. Register File.
+8. Data Memory Unit.
+9. Pipeline registers - IF/ID, ID/EX, EX/MEM, MEM/WB.
+10. Stalling Unit.
+11. Forwarding Unit.
+12. Adders, Shifters, Multiplexers, Sign Extender.
 
 ![image](https://github.com/Vinayak1409/Pipelined_Processor/assets/83897602/e659bcc8-10e0-48ee-88cb-81f9ed1dd86f)
 
